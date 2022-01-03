@@ -1,0 +1,16 @@
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe.config
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.exe
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\QuanLyXe.pdb
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\EntityFramework.dll
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\EntityFramework.xml
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.AssemblyReference.cache
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.SuggestedBindingRedirects.cache
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.Properties.Resources.resources
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.GenerateResource.cache
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.csproj.CoreCompileInputs.cache
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.exe
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.pdb
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.Form1.resources
+D:\Ngan\.NET\QuanLyXe\QuanLyXe\obj\Debug\QuanLyXe.FrmXeChiTiet.resources
